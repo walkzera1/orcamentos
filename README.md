@@ -44,4 +44,4 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ---
 
-**Desenvolvido por [Seu Nome](link-do-seu-perfil-github)**
+**Desenvolvido por [Rafael Altissimo](link-do-seu-perfil-github)**
